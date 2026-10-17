@@ -1,0 +1,32 @@
+name: Tester bug report
+description: Report a reproducible Project Astra testing issue
+body:
+  - type: input
+    id: revision
+    attributes:
+      label: APK filename and installed server revision
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Phone or emulator, Android version
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Exact steps, stage or menu
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected and actual result
+    validations:
+      required: true
+  - type: textarea
+    id: diagnostics
+    attributes:
+      label: Diagnostics or screenshots
+      description: Review for private information. Do not post saves, keys or credentials.

@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "repository": "CloudyCodez/ProjectAstra",
+  "assets": [
+    {
+      "source_repository": "CloudyCodez/eeeeeekkkkk",
+      "source_tag": "PA-AV1",
+      "target_tag": "PA-AV1",
+      "name": "Cloud-E7-Assets.zip.part01",
+      "bytes": 781466366,
+      "sha256": "87c970a450e8d700c38138eb4ad1163f8b6338090d9f325a8f89b157a10716b8"
+    },
+    {
+      "source_repository": "CloudyCodez/eeeeeekkkkk",
+      "source_tag": "PA-AV1",
+      "target_tag": "PA-AV1",
+      "name": "Cloud-E7-Assets.zip.part02",
+      "bytes": 781466366,
+      "sha256": "a3e332000020288a2eec76b38a75cce0a2ce04d2923353cb9cd0d9973cfdbe4e"
+    },
+    {
+      "source_repository": "CloudyCodez/eeeeeekkkkk",
+      "source_tag": "PA-AV1",
+      "target_tag": "PA-AV1",
+      "name": "Cloud-E7-Assets.zip.part03",
+      "bytes": 781466366,
+      "sha256": "60074b2d14317bacb703849842d9411927e9b3a71d39924835f725227458220a"
+    },
+    {
+      "source_repository": "CloudyCodez/eeeeeekkkkk",
+      "source_tag": "PA-AV1",
+      "target_tag": "PA-AV1",
+      "name": "Cloud-E7-Assets.zip.part04",
+      "bytes": 781466366,
+      "sha256": "ab14396cc9c2b9aae7247b8f0594672ecb42f8f48b25f839285ee75869e87c9a"
+    },
+    {
+      "source_repository": "CloudyCodez/eeeeeekkkkk",
+      "source_tag": "PA-AV1",
+      "target_tag": "PA-AV1",
+      "name": "Cloud-E7-Assets.zip.part05",
+      "bytes": 781466366,
+      "sha256": "02d597082a9f5059e86a5c2a5505a359a537c8d3bcdd4e93e1e679c9973a22d2"
+    },
+    {
+      "source_repository": "CloudyCodez/eeeeeekkkkk",
+      "source_tag": "PA-AV1",
+      "target_tag": "PA-AV1",
+      "name": "Cloud-E7-Assets.zip.part06",
+      "bytes": 781466366,
+      "sha256": "a943c51439b328076ee0ff764f4ba26f2b1cd975efdf27014d7505797b7d05ee"
+    },
+    {
+      "source_repository": "CloudyCodez/eeeeeekkkkk",
+      "source_tag": "PA-AV1",
+      "target_tag": "PA-AV1",
+      "name": "Cloud-E7-Assets.zip.part07",
+      "bytes": 781466366,
+      "sha256": "49dda506605dc5f4d23ae99ff139960ba08e0238c8cef8415b081ba66815e70f"
+    },
+    {
+      "source_repository": "CloudyCodez/eeeeeekkkkk",
+      "source_tag": "PA-AV1",
+      "target_tag": "PA-AV1",
+      "name": "Cloud-E7-Assets.zip.part08",
+      "bytes": 781466366,
+      "sha256": "d841570299436d9440b42ecc48210d499ec4ed89d0f9845feb495211a1cd055b"
+    },
+    {
+      "source_repository": "CloudyCodez/eeeeeekkkkk",
+      "source_tag": "PA-AV1",
+      "target_tag": "PA-AV1",
+      "name": "Cloud-E7-Assets.zip.part09",
+      "bytes": 781466366,
+      "sha256": "09334d9dd4bdcc10134bbee06adf61596f58ece4c86deddee6dd76a08c1a8514"
+    },
+    {
+      "source_repository": "CloudyCodez/eeeeeekkkkk",
+      "source_tag": "PA-AV1",
+      "target_tag": "PA-AV1",
+      "name": "Cloud-E7-Assets.zip.part10",
+      "bytes": 781466366,
+      "sha256": "472d060ec68bc4ef5d89ee8cbab485817edfb37ca3ae8ca868cc75c50ca94f12"
+    },
+    {
+      "source_repository": "CloudyCodez/eeeeeekkkkk",
+      "source_tag": "PA-AV1",
+      "target_tag": "PA-AV1",
+      "name": "Cloud-E7-Assets.zip.part11",
+      "bytes": 781466366,
+      "sha256": "f9ad696820336b7681f7e7daed547e525ab3999185e59b5ef553d9f70be80537"
+    },
+    {
+      "source_repository": "CloudyCodez/eeeeeekkkkk",
+      "source_tag": "PA-AV1",
+      "target_tag": "PA-AV1",
+      "name": "Cloud-E7-Assets.zip.part12",
+      "bytes": 781466362,
+      "sha256": "486fa4fb2f988df7c4c91214e08474719ce403c17d4189fb61fbddd216918a56"
+    },
+    {
+      "source_repository": "CloudyCodez/eeeeeekkkkk",
+      "source_tag": "PA-DELTA-20261013",
+      "target_tag": "PA-DELTA-20261013",
+      "name": "asset-delta.zip.part01",
+      "bytes": 106756530,
+      "sha256": "9cc0c3e0926abe4f5ad7d2c822e91d43ee4f07f81ec7fc0c5322522d7475727b"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+downloads/
+*.apk
+*.zip
+*.part[0-9]*
+*.p12
+*.pem
+*.key
+*.sqlite*
+.env*
