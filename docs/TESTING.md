@@ -3,7 +3,9 @@
 ## Supported targets
 
 Use the Android APK on an Android phone/tablet **or an Android emulator** with a
-compatible ABI. Emulator support is not Windows-native support; install the APK
+compatible ABI. The current build requires **Android 8.0+ (API 26)** and packages
+**ARM64 (`arm64-v8a`)** native libraries. An x86/x64 emulator needs working ARM64
+translation; not every emulator image supports this. Emulator support is not Windows-native support; install the APK
 inside the emulator. This is not an iOS build. Minimum Android/API and packaged
 ABIs are listed in each release's build details; device compatibility still needs
 testing. No root or separate PC server is required for the local hub.
